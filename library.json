@@ -1,0 +1,16 @@
+{
+  "name": "MemoryFree",
+  "keywords": "memory, getFreeMemory,	memoryCheck, getMinMemory",
+  "description": "An Arduino library, that allows you to keep track of the amount of free memory that is available at runtime",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sudar/MemoryFree"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "teensy"
+  ]
+}
